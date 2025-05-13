@@ -1,0 +1,1 @@
+# ftx-stock-trend-prediction
